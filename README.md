@@ -45,3 +45,42 @@ bin/cake bake all
 # Bake individual table for MAC
 bin/cake bake all tablename
 ```
+
+### The Gitflow - Connor
+## Cloning
+<br>
+
+```bash
+# Cloning using git bash
+git clone https://gitlab.com/repository
+```
+<br>
+
+```bash
+# Move into your new repository
+cd repository
+```
+
+<br>
+## Adding, committing, and pushing
+# I will break this down into seperate commands, but also provide a one line command to add, commit, and push.
+
+```bash
+git add filename # to add a specific file
+# or
+git add . # to add all new files.
+```
+
+<br>
+
+```bash
+# A commit message is needed with Git Bash, otherwise the commit will fail.
+git commit -m "Message"
+```
+
+<br>
+
+```bash
+# Push it to the cloud!
+git push
+```
