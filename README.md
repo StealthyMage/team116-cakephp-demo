@@ -1,4 +1,4 @@
-# cakephp-baking-setup
+# cakephp-setup
 
 ### Instructions on how to bake in cakephp
 
