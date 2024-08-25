@@ -90,7 +90,7 @@ git push
 
 ```bash
 # Here is the command to do all at once:
-git add. && git commit -m "Commit Message" && git push
+git add . && git commit -m "Commit Message" && git push
 ```
 
 <br>
