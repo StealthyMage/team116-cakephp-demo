@@ -106,10 +106,10 @@ git branch branchName
 
 git checkout branchName
 
-git --set-upstream branchname
+git push --set-upstream branchname
 
 # or
-git branch branchName && git checkout branchName && git --set-upstream branchname
+git branch branchName && git checkout branchName && git push --set-upstream branchname
 ```
 
 <br>
